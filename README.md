@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Kai-Hua-Yeh
-- 👀 I’m interested in data analysis/financial...
 - 🌱 I’m currently learning Python/R.
 - 📫 How to reach me ? Please e-mail to kate850209@gmail.com  
 
