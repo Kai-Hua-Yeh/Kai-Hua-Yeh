@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kai-Hua-Yeh
 - 🌱 I’m currently learning Python/R.
-- 📫 How to reach me ? Please e-mail to kate850209@gmail.com  
+- 📫 How to reach me ? Please e-mail to kateyehyeh@gmail.com  
 
 Thank you!!
 
